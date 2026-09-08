@@ -1,1 +1,1 @@
-print("It is a good day.")
+print("hallo worad")
