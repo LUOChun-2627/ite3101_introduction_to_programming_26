@@ -1,1 +1,1 @@
-todays_date=value
+todays_date=date
