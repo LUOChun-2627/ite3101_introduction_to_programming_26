@@ -1,2 +1,2 @@
 todays_date = datetime
-print()
+print(todays_date)
