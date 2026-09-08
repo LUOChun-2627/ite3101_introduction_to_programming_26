@@ -1,2 +1,2 @@
-todays_date = datetime
+todays_date = 
 print(todays_date)
