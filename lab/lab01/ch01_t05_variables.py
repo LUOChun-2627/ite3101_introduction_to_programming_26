@@ -1,2 +1,2 @@
-todays_date = "8/9/2026"
+todays_date = datetime
 print(todays_date)
