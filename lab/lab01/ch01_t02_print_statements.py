@@ -1,1 +1,1 @@
-print("there are something good.")
+print("statements")
