@@ -1,1 +1,1 @@
-todays_date=message
+todays_date = datetime
