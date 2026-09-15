@@ -2,3 +2,4 @@
 
 a = "my_string"
 print(len(a))
+print
