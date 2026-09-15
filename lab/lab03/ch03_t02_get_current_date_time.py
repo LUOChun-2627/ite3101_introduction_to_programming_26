@@ -1,3 +1,4 @@
 from datetime import datetime
-print(now.month)
-print(now.day)
+month = datetime
+print(month)
+print(day)
