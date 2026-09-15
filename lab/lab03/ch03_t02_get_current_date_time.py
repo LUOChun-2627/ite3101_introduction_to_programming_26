@@ -3,6 +3,6 @@ now = datetime.now()
 currect_month = now.month
 currect_day = now.day
 currect_year = now.year
-print(year)
+print()
 print(month)
 print(day)
