@@ -1,5 +1,5 @@
 from datetime import datetime
-now = d
+now = datetime.now()
 month = now.month
 day = now.day
 print(month)
