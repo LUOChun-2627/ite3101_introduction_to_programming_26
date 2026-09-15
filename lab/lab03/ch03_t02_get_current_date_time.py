@@ -1,3 +1,3 @@
 from datetime import datetime
-now = da
+now = now.month
 print()
