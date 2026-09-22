@@ -10,7 +10,7 @@ bool_two = 1 + 1 and 1 * 2
 bool_three = 13 >= 12 or 2 != 2
  
 # Make me true!
-bool_four = 
+bool_four = not 
 
 # Make me true!
 bool_five = None
