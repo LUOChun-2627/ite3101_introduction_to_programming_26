@@ -1,5 +1,5 @@
 pyg = 'ay'
-word = lower()
+word = lower()_case
 original = input('Enter a word:')
 
 if len(original) > 0 and original.isalpha():
