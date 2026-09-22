@@ -13,4 +13,4 @@ bool_three = 13 >= 12 or 2 != 2
 bool_four = not 1 + 2 == 5
 
 # Make me true!
-bool_five = 
+bool_five = Max ==
