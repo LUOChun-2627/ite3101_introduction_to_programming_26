@@ -8,4 +8,4 @@ elif shut_down():
     s == "no"
     return "Shutdown aborted"
 else:
-    return 
+    return "Sorry"
