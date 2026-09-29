@@ -6,4 +6,4 @@ if shut_down():
     return "Shutting down"
 elif shut_down():
     s == "no"
-    return ""
+    return "Shutdown aborted"
