@@ -1,4 +1,5 @@
 def hotel_cost(nights: int) -> int:
     return 140 * nights
 
-def plan
+def plane_ride_cost(ciry):
+    if city == "Charlotte"
