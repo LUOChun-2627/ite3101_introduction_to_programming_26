@@ -5,4 +5,4 @@ if shut_down():
     s == ("yes")
     return "Shutting down"
 elif shut_down():
-    s == 
+    s == "no"
