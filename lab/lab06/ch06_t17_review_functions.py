@@ -7,3 +7,4 @@ if shut_down():
 elif shut_down():
     s == "no"
     return "Shutdown aborted"
+elif 
