@@ -1,4 +1,4 @@
-def shut_down(s)
+def shut_down(s):
     return s
 
 if shut_down():
