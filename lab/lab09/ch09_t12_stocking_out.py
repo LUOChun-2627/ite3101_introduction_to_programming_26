@@ -1,9 +1,5 @@
 from typing import List
 
-global shopping_list
-global stock
-global prices
-
 shopping_list = ["banana", "orange", "apple"]
 
 stock = {
