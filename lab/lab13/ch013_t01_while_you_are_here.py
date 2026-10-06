@@ -1,4 +1,4 @@
-count = 0
+count = 9
 
 if count < 5:
     print("Hello, I am an if statement and count is", count)
