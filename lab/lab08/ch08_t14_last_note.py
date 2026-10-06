@@ -13,5 +13,5 @@ inventory['pouch'].sort()
 
 # Your code here
 inventory['pocket'] = ['seashell','strange berry','lint']
-inventory['pocket'].sort()
+inventory['backpack'].sort()
 inventory.remove('')
