@@ -4,3 +4,4 @@ def string_function(n):
     return n + 'world'
 
 # print(string_function(n))
+print(string_function(n))
