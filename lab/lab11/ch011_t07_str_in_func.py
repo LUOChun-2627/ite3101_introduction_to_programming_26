@@ -1,5 +1,6 @@
 n = "Hello"
 # Your function here!
-def string_function(n)
+def string_function(n):
+    return n + 'world'
 
 # print(string_function(n))
