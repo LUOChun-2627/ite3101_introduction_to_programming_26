@@ -1,6 +1,6 @@
 stock = {
-    "banana": 4,
+    "banana": 6,
     "apple": 0,
     "orange": 32,
-    "pear": 3
+    "pear": 15
 }
