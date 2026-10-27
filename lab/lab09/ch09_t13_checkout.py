@@ -23,6 +23,7 @@ prices = {
 
 
 # Write your code below!
+food = ["banana","orange"]
 def compute_bill(food: List[str]) -> float:
     total = 0
     for item in food:
