@@ -1,2 +1,3 @@
 haiku = """The old pond,
- A frog jumps in: Plgp: """
+ A frog jumps in:
+   Plgp: """
