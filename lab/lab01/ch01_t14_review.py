@@ -1,1 +1,1 @@
-skill_completed = "Python Synt"
+skill_completed = "Python Syntax"
