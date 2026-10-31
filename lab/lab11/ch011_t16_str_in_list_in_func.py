@@ -1,7 +1,7 @@
 n = ["Michael", "Lieberman"]
 # Add your function here
 def join_strings(words):
-    result
+    result = ""
     for 
 # print(join_strings(n))
 print(join_strings(n))
