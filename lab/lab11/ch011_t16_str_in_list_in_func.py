@@ -3,3 +3,4 @@ n = ["Michael", "Lieberman"]
 def join_string
 
 # print(join_strings(n))
+print(join))
