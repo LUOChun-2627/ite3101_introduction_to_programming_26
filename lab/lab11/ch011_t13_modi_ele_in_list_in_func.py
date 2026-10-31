@@ -1,10 +1,4 @@
-def double_list(x):
-    new_list = []
-    for num in x:
-        new_list.append(num * 2)
-    return new_list
-
-n = [12, 20, 28]
-
-# 这里直接打印 n，而不是 double_list(n)！
-print(n)
+n=[3,5,7]def double_list(x):
+foni in cange(e.len(x:xilaxil2
+# Don't forget to return your new list!
+return x# print(double_list(n))print(double_list(n))
