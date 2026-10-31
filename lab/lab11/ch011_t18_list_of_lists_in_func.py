@@ -6,6 +6,5 @@ def flatten(lists):
         for number in numbers:
             results.append(number)
     return results
-
 # print(flatten(n))
 print(flatten(n))
