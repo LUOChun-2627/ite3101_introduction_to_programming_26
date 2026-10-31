@@ -1,5 +1,6 @@
 n = [3, 5, 7]
 def double_list(x):
+    x = []
     for i in range(0, len(x)):
         x.append(x[i] * 2)
 # Don't forget to return your new list!
