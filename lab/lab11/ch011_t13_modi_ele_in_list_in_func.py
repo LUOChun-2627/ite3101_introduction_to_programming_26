@@ -6,4 +6,5 @@ def double_list(x):
 
 n = [12, 20, 28]
 
-print(double_list(n))
+# 这里直接打印 n，而不是 double_list(n)！
+print(n)
