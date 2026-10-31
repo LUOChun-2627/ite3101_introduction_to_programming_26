@@ -1,8 +1,8 @@
 n = [3, 5, 7]
 def double_list(x):
-    new_x = []
     for i in range(0, len(x)):
-        new_x.append(x[i] ** 2)
-    return new_x
-
+        x[i] = x[i] ** 2
+# Don't forget to return your new list!
+     return x
+# print(double_list(n))
 print(double_list(n))
