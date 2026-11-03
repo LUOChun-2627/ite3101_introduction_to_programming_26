@@ -1,1 +1,3 @@
-def reverse
+def reverse(text):
+    result = ""
+    f
