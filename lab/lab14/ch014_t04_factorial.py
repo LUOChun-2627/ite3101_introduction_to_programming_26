@@ -1,4 +1,4 @@
-def digit_sum(n):
+def factorial(n):
     total = 0
     for a in str(n):
         total = total + int(a)
