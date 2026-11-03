@@ -1,4 +1,5 @@
 def reverse(text):
     result = ""
     for a in text:
-        result
+        result += a
+    return result
