@@ -1,1 +1,2 @@
-def cen
+def censor(text, word):
+    
