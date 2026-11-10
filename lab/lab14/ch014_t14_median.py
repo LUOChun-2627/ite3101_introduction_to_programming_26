@@ -4,4 +4,4 @@ def median(numbers):
         mid1 = i //2
         return longnum[mid1]
     else:
-        mid2 =
+        mid2 = longnum[i // 2]
