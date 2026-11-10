@@ -3,4 +3,5 @@ def remove_duplicates(numbers)
     total = []
     for i in numbers:
         if i not in result:
+            result.add(i)
             
