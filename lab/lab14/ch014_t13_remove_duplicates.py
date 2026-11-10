@@ -1,3 +1,6 @@
 def remove_duplicates(numbers)
     result = set()
-    res
+    total = []
+    for i in numbers:
+        if i not in result:
+            
