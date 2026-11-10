@@ -1,2 +1,2 @@
 def median(numbers):
-    i = len(l)
+    i = len(longnum)
