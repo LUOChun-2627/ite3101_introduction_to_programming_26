@@ -4,4 +4,5 @@ def remove_duplicates(numbers)
     for i in numbers:
         if i not in result:
             result.add(i)
+            total.append(i)
             
