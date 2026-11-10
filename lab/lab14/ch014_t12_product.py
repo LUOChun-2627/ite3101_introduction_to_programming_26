@@ -1,2 +1,5 @@
 def product(numbers):
-    elements = 0
+    result = 1
+    for i in numbers:
+        result *= i
+    return result
