@@ -1,2 +1,2 @@
 def purify(number):
-    result = ""
+    result = []
