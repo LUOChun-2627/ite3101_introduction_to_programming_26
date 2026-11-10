@@ -8,4 +8,4 @@ def scrabble_score(word):
     for i in word:
         lower=i.lower()
         result = result + score[lower]
-    ret
+    return result
