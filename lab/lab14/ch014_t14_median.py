@@ -5,3 +5,4 @@ def median(numbers):
         return longnum[mid1]
     else:
         mid2 = longnum[i // 2 - 1]
+        mid3 = longnum[i // 2]
