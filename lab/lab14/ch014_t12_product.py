@@ -1,2 +1,2 @@
 def product():
-    elements
+    elements = 0
