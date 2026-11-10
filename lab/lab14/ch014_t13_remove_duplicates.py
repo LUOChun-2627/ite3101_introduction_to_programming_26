@@ -5,4 +5,4 @@ def remove_duplicates(numbers)
         if i not in result:
             result.add(i)
             total.append(i)
-            
+    return total
