@@ -1,3 +1,4 @@
 def censor(text, word):
-    """"
     """
+    """
+    
