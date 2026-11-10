@@ -1,2 +1,3 @@
 def count():
-    sequence==
+    sequence == ''
+    item == ''
