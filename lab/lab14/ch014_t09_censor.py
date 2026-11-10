@@ -1,4 +1,4 @@
 def censor(text, word):
     """
     """
-    n = 
+    n = "*"
