@@ -1,2 +1,2 @@
-def purify():
+def purify(number):
     result = ""
