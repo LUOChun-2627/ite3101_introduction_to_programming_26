@@ -1,2 +1,2 @@
 def purify():
-    result
+    result = ""
