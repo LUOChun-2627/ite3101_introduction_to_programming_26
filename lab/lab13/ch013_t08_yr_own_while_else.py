@@ -5,7 +5,6 @@ random_number = randint(1, 10)
 
 guesses_left = 3
 # Start your game!
-guesses_left = 3
 while guesses_left > 0:
     guess = int(input("Your guess: "))
     if guess == secret:
