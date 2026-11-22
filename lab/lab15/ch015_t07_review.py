@@ -39,3 +39,9 @@ def grades_variance(scores: List[float]) -> float:
 
 def grades_std_deviation(variance: float) -> float:
     return variance ** 0.5
+
+print_grades(grades)
+print(grades_sum(grades))
+print(grades_average(grades))
+print(grades_variance(grades))
+print(grades_std_deviation(grades_variance(grades)))
