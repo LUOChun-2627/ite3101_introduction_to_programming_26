@@ -11,5 +11,6 @@ class Animal(object):
         print(self.age)
 
 
-hippo = Animal("Peter", 10)
-hippo.description()
+sloth = Animal("Sid", 4)
+ocelot = Animal("Ozzy", 2)
+print(hippo.health, sloth.health, ocelot.health) 
