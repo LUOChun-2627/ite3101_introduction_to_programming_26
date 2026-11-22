@@ -9,3 +9,5 @@ class Animal(object):
     def description(self):
         print(self.name)
         print(self.age)
+hippo = Animal("Hank", 5)
+hippo.description()
