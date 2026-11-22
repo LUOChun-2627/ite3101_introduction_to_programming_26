@@ -14,3 +14,4 @@ class Car(object):
     def drive_car(self):
         self.condition = "used"
 
+my_car.display_car()
