@@ -6,3 +6,8 @@ file_path_name = os.path.join(os.path.dirname(
 my_file = open(file_path_name, "w")
 
 # Add your code below!
+my_list = [i**2 for i in range(1, 11)]
+my_file = open("ch20_t03o_output.txt", "w")
+for item in my_list:
+    my_file.write(str(item) + "\n")
+my_file.close()
