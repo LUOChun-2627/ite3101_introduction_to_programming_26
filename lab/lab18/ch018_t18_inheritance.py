@@ -8,7 +8,6 @@ class Triangle(object):
 
     def check_angles(self):
         return self.angle1 + self.angle2 + self.angle3 == 180
-    
 
 
 my_triangle = Triangle(90, 30, 60)
