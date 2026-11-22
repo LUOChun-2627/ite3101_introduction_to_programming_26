@@ -3,6 +3,5 @@ my_dict = {
     "Age": 18,
     "BDFL": True
 }
-for key in my_dict:
-    print(key, my_dict[key])
-    print(my_dict.values())
+print(my_dict.keys())
+print(my_dict.values())
