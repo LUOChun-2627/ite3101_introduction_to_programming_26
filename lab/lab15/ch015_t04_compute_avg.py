@@ -1,21 +1,31 @@
 from typing import List
 
-# The following 3 lines of codes are for UnitTest and you don't need them for your real applications!
+# The following 5 lines of codes are for UnitTest and you don't need them for your real applications!
 global grades
 global grades_sum
 global grades_average
+global print_grades
+global grades_variance
 
 grades = [100, 100, 90, 40, 80, 100, 85, 70, 90, 65, 90, 85, 50.5]
 
 
-def grades_sum(scores: List[float]) -> float:
-    sum = 0
-    for item in scores:
-        sum += item
-    return sum
+def print_grades(grades_input: List[float]):
+    for grade in grades_input:
+        print(grade)
 
-def grades_average(grades_input):
-    total = grades_sum(grades_input)
-    return total / float(len(grades_input))
+
+def grades_sum(scores: List[float]) -> float:
+    total = 0
+    for score in scores:
+        total += score
+    return total
+
+
+def grades_average(grades_input: List[float]) -> float:
+    sum_of_grades = grades_sum(grades_input)
+    average = sum_of_grades / float(len(grades_input))
+    return average
+
 
 print(grades_sum(grades))
