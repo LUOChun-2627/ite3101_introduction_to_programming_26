@@ -13,4 +13,5 @@ class Animal(object):
 
 sloth = Animal("Sid", 4)
 ocelot = Animal("Ozzy", 2)
+hippo = Animal("Hank", 6)
 print(hippo.health, sloth.health, ocelot.health)
