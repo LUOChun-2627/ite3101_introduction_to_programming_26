@@ -1,3 +1,2 @@
-
-garbled = "!eD a r t i c o n l "
+garbled = "!XeXgXaXsXsXeXmX XtXeXrXcXeXsX XeXhXtX XmXaX XI"
 message = garbled[::-1][::2]
