@@ -1,2 +1,5 @@
-def remove_duplicates(numbers):
-    return list(set(numbers))
+def product(numbers):
+    result = 1
+    for i in numbers:
+        result *= i
+    return result
